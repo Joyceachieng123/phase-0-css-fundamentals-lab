@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+#main-header {
+  text-align: center;
+
+}
+#image-container {
+  text-align: center;
+}
+#image-container img {
+  display: inline-block;
+}
+#navbar a {
+  padding: 10px;
+  background-color: grey; /
+  text-decoration: none; 
+  color: white; 
+}
+#image-caption {
+  text-align: center;
+  font-size: 14px; /* Adjust the font size as needed */
+}
+#featured-property p {
+  width: 800px;
+  margin: 0 auto; /* Center-align */
+}
+#details div {
+  float: left;
+  width: 25%; 
+  text-align: center; 
+  background-color: orangered;
+}
